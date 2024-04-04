@@ -36,6 +36,10 @@ merged.*
 like to change the name used, specify it here. Additionally, if you would like
 to add a project of yours to the README, you may also specify it here.*
 
+*If this is a pull request into an Open Project repo, please specify your GitHub
+contributor email here so that you will be recorded in the commit history of the
+official framework repository.
+
 ## Details
 
 *Info about the contents of your pull request goes here.*
